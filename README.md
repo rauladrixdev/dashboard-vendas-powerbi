@@ -22,6 +22,7 @@ Dashboard de análise de vendas desenvolvido em Power BI.
 Power BI Desktop
 
 ## 📸 Preview
-<img width="1070" height="603" alt="Captura de Tela (32)" src="https://github.com/user-attachments/assets/debefb09-0bb4-4d82-a1b2-efd54bde3ee1" />
+<img width="1057" height="593" alt="Captura de Tela (31)" src="https://github.com/user-attachments/assets/c61596a3-481a-4e05-9d35-c20566d88e89" />
+
 
 
